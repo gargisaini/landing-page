@@ -52,7 +52,40 @@ a{
     margin-top: 30px;
 }
 .p1{
-    
     text-align: center;
     color: #E5E7EB;
 }
+.container2{
+    background-color: #E5E7EB;
+    
+}
+.quote{
+    margin-left: 220px;
+    margin-right: 220px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 70px;
+}
+.container3{
+    background-color:#3882f6 ;
+    margin-left: 180px;
+    margin-right: 180px;
+    color:#E5E7EB ; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 10px;    
+}
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    height: 20px;
+    padding: 30px;
+}
+
+
